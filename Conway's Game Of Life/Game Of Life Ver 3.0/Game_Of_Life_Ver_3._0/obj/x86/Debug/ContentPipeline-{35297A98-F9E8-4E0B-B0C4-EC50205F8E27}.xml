@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>NODE.jpg</Source>
+      <Name>NODE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\OneDrive\Programming\Game Of Life\Game Of Life Ver 3.0\Game_Of_Life_Ver_3._0\bin\x86\Debug\Content\NODE.xnb</Output>
+      <Time>2016-02-01T16:30:51.5486743+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BUTTONS\reset_button.png</Source>
+      <Name>BUTTONS\reset_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\OneDrive\Programming\Game Of Life\Game Of Life Ver 3.0\Game_Of_Life_Ver_3._0\bin\x86\Debug\Content\BUTTONS\reset_button.xnb</Output>
+      <Time>2016-02-05T11:18:30.3433841+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BUTTONS\start_button.png</Source>
+      <Name>BUTTONS\start_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\OneDrive\Programming\Game Of Life\Game Of Life Ver 3.0\Game_Of_Life_Ver_3._0\bin\x86\Debug\Content\BUTTONS\start_button.xnb</Output>
+      <Time>2016-02-05T14:32:12.9239193+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SP1.spritefont</Source>
+      <Name>SP1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\afray\OneDrive\Programming\Game Of Life\Game Of Life Ver 3.0\Game_Of_Life_Ver_3._0\bin\x86\Debug\Content\SP1.xnb</Output>
+      <Time>2016-02-05T15:34:56.0247589+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{35297A98-F9E8-4E0B-B0C4-EC50205F8E27}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\afray\OneDrive\Programming\Game Of Life\Game Of Life Ver 3.0\Game_Of_Life_Ver_3._0Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\afray\OneDrive\Programming\Game Of Life\Game Of Life Ver 3.0\Game_Of_Life_Ver_3._0\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\afray\OneDrive\Programming\Game Of Life\Game Of Life Ver 3.0\Game_Of_Life_Ver_3._0\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\afray\OneDrive\Programming\Game Of Life\Game Of Life Ver 3.0\Game_Of_Life_Ver_3._0\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-11T19:30:25.9710579+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
